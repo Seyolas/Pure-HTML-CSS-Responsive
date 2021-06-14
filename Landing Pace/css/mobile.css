@@ -1,0 +1,23 @@
+h1{
+    color:pink
+}
+
+#navbar{
+
+    flex-direction: column;
+    padding-top:1rem;
+    padding-bottom: 1rem;
+    height: 90px;
+    overflow: hidden;
+    
+}
+
+#training .items {
+    flex-direction: column;
+   
+    
+}
+#training .items .item {
+    width: 100%;
+    
+}
