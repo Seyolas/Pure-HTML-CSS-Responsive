@@ -21,3 +21,10 @@ h1{
     width: 100%;
     
 }
+
+
+
+.courses .course{
+    flex-direction: column;
+  
+}
