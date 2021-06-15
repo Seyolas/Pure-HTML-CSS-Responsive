@@ -1,2 +1,2 @@
 # HTML-CSS-Responsive tasarım
-![NS49dG](https://user-images.githubusercontent.com/39236950/122045805-d5519d80-cde6-11eb-9f5c-a72feecdd0f4.gif)
+![LI5R8b](https://user-images.githubusercontent.com/39236950/122046492-a851ba80-cde7-11eb-8614-7b8af441b436.gif)
