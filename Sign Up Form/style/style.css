@@ -1,0 +1,135 @@
+body{
+    /*
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    line-height: 1.5;
+    */
+    font:15px/1.5 Arial, Helvetica, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+
+}
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+a{
+    text-decoration: none;
+    color:#fff;
+    
+}
+.dark-header{
+    background:#35424a;
+    border-bottom: #e8491d 3px solid;
+
+}
+
+.button_1{
+    height: 30px;
+    background: #e8491d;
+    border: none;
+    padding-right: 20px;
+    padding-left: 20px;
+    color:#fff;
+
+}
+
+.button_1:hover{
+    opacity: 0.9;
+    
+}
+
+/*global*/
+
+.container{
+    width: 80%;
+    margin: auto;
+    overflow: hidden;
+}
+
+/*navbar*/
+#navbar{
+    color:#fff;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 0.75rem;
+    min-height: 70px;
+    
+}
+
+#navbar ul {
+    list-style-type: none;
+    display: flex;
+     
+}
+#navbar ul li a{
+    padding: 0.75rem;
+    text-transform: uppercase;
+    
+}
+#navbar ul li a:hover{
+    color:#cccccc;
+    font-weight: bold;
+
+}
+
+header .highlight, header .current a {
+    color: #e8491d;
+    font-weight: bold;
+}
+
+/*------------------------------------------------------------------------------*/
+
+/*showcase*/
+
+#showcase{
+    min-height: 400px;
+    background: url('../img/laptop.png');
+    background-size: 100%;
+    background-position: center;
+    text-align: center;
+    color:#fff;
+
+   
+}
+#showcase h1{
+    margin-top: 100px;
+    font-size: 55px;
+    margin-bottom: 10px;
+
+}
+
+#showcase p{
+    font-size: 20px;
+}
+
+/***************************************/
+
+#newslatter .container{
+    padding: 15px;
+    margin: 0 auto;
+    min-width: 1100px;
+    align-items: center;
+    min-height: 80px;
+    color:#fff;
+    background: #35424a;
+    display: flex;
+    justify-content: space-around;
+    
+
+}
+#newslatter form{
+    margin-top: 15px;
+
+}
+#newslatter input[type="email"]{
+    padding: 4px;
+    height: 25px;
+    width: 250px;
+
+}
+
