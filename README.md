@@ -1,2 +1,1 @@
-# HTML-CSS-Responsive tasarım
 
