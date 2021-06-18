@@ -1,0 +1,78 @@
+
+header .container h1{
+    
+    font-size: medium;
+    
+}
+
+header .container ul li{
+    
+    font-size: medium;
+}
+
+
+
+
+
+#showcase{
+    min-height: 200px;
+}
+
+
+#showcase .container h1{
+    margin-top: 5px;
+    font-size: xx-large;
+    
+
+}
+
+
+
+
+#newslatter .container h2{
+    font-size: medium;
+  
+ 
+
+}
+#newslatter .container {
+    min-width: 200px;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+
+}
+
+#newslatter .container .button_1{
+    align-self: center;
+}
+
+
+
+
+
+#boxes .container{
+    display: flex;
+    flex-direction: column;
+}
+
+#boxes .container .box{
+    width: 100%;
+}
+
+
+/*about*/
+
+
+/*services*/
+
+#main .container{
+    display: flex;
+    flex-direction: column;
+}
+
+
+#sidebar{
+    margin:0;
+    padding: 0;
+}

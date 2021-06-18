@@ -27,6 +27,16 @@ a{
 
 }
 
+.dark{
+    padding: 15px;
+    background: #35424a;
+    color:#fff;
+    margin-top: 22px;
+    margin-bottom: 10px;
+    
+
+}
+
 .button_1{
     height: 30px;
     background: #e8491d;
@@ -42,6 +52,9 @@ a{
     
 }
 
+textarea{
+    resize: none;
+}
 /*global*/
 
 .container{
@@ -91,6 +104,7 @@ header .highlight, header .current a {
     background: url('../img/laptop.png');
     background-size: 100%;
     background-position: center;
+    background-repeat: no-repeat;
     text-align: center;
     color:#fff;
 
@@ -173,6 +187,53 @@ header .highlight, header .current a {
 
 
  /***********************************************************************/
+
+
+/*about*/
+
+#main .container{
+    display: flex;
+    justify-content:space-between;
+}
+
+/*services*/
+
+#services li{
+    list-style: none;
+    padding: 20px;
+    border:#ccc solid 1px;
+    margin-bottom: 5px;
+    background: #e6e6e6;
+
+}
+
+#sidebar{
+    margin-left: 10px;
+    margin-top: 1px;
+    padding: 10px;
+}
+
+#sidebar .quote input, #sidebar .quote textarea ,#sidebar .quote .button_1{
+    width: 100%;
+    padding: 10px;
+}
+
+#sidebar .quote .button_1{
+    margin-top: 15px;
+}
+
+.form-control{
+ display: flex;
+ flex-direction: column;
+ justify-content: center;
+ font-size: large;
+
+
+ 
+}
+
+
+
 
 /*footer*/
 
