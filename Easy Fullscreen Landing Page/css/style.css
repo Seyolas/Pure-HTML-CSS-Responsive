@@ -1,0 +1,101 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono:wght@300&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Roboto Mono', monospace;
+    bottom: 0;
+}
+
+#background {
+    background-image:url('http://traversymedia.com/downloads/assets/beachshowcase.jpg');
+  background-size:cover;
+  background-position:center;
+  height:100vh;
+
+}
+
+.area{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding-top: 20rem;
+}
+
+.area h1{
+    font-size: 4rem;
+    color:#926239;
+    padding: 1rem;
+    
+}
+
+.area p{
+    color:#926239;
+    font-size: 2rem;
+  
+}
+
+.area .btn-first{
+    text-decoration: none;
+    font-size: 1.2rem;
+    padding: 1rem 1.5rem;
+    border-radius: 10px;
+    margin-top: 1rem;
+    color:#926239;
+    border:#926239 1px solid;
+}
+
+.area .btn-first:hover{
+    transition: all 0.8s;
+    background-color:#926239;
+    color:#fff;
+}
+
+
+#container{
+    background-color: rgb(248, 245, 241);
+}
+#one{
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    justify-content: center;
+    color:#fff;
+    font-size: 1.2rem;
+   
+    
+}
+#one .area1{
+    background-color: #926239;
+    padding: 2rem;
+}
+#one .area2{
+    color:#926239;
+    padding: 2rem;
+}
+
+#two .box{
+    display: flex;
+    padding: 1rem;
+    font-size: 1.2rem;
+   justify-content: center;
+   align-items: center;
+    width: 100%;
+    
+}
+
+#two .box1, #two .box3{
+    background-color: #926239;
+    color:#fff;
+    padding: 1rem;
+    margin-bottom: 0;
+
+}
+
+#two .box2{
+    padding: 1rem;
+    margin-bottom: 0;
+    color:#926239;
+}
