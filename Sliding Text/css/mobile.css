@@ -1,0 +1,31 @@
+h1,p,a{
+    font-size: small;
+}
+.content p{
+    font-size: small;
+}
+
+#navbar{
+    flex-direction: column;
+    padding-top:1rem;
+    padding-bottom: 1rem;
+     height: 90px;
+    overflow: hidden;
+    margin: 0 auto;
+}
+
+
+.logo{
+    width: 200px;
+    padding-top: 1rem;
+    
+}
+
+.content a{
+    font-size: small;
+}
+
+.content{
+   
+    margin-top: 13rem;
+}
