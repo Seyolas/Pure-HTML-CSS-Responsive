@@ -8,7 +8,7 @@ UPDATE LINK 👇
 
 Design your house ----> https://myprojects2.000webhostapp.com/DesignYourHouseWebsite/
 
-Easy Full Screnn ---> https://myprojects2.000webhostapp.com/Easy%20Fullscreen%20Landing%20Page/
+Easy Full Screnn ---> https://myprojects2.000webhostapp.com/EasyFullscreenLandingPage/
 
 FullScreen Video Background --> https://myprojects2.000webhostapp.com/FullscreenVideoBackground/
 
