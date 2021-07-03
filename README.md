@@ -4,7 +4,9 @@ UPDATE LINK 👇
 
 
 
+Responsive Layout --> https://myprojects2.000webhostapp.com/ResponsiveLayout/index.html
 
+Mobile First Webpage --> https://myprojects2.000webhostapp.com/MobileFirstWebsite/
 
 Design your house ----> https://myprojects2.000webhostapp.com/DesignYourHouseWebsite/
 
@@ -14,11 +16,11 @@ FullScreen Video Background --> https://myprojects2.000webhostapp.com/Fullscreen
 
 Landing Page --> https://myprojects2.000webhostapp.com/LandingPace/
 
-Mobile First Webpage --> https://myprojects2.000webhostapp.com/MobileFirstWebsite/
+
 
 PluralSight Clone --> https://myprojects2.000webhostapp.com/PluralSightClone/
 
-Responsive Layout --> https://myprojects2.000webhostapp.com/ResponsiveLayout/index.html
+
 
 
 
