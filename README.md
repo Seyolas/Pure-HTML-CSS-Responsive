@@ -16,9 +16,9 @@ FullScreen Video Background --> https://myprojects2.000webhostapp.com/Fullscreen
 
 Landing Page --> https://myprojects2.000webhostapp.com/LandingPace/
 
-
-
 PluralSight Clone --> https://myprojects2.000webhostapp.com/PluralSightClone/
+
+Sliding Text --> https://myprojects2.000webhostapp.com/Sliding-Text/
 
 
 
