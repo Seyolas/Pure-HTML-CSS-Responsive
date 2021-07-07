@@ -61,8 +61,7 @@ a{
     width: 100%;
 }
 
-/*navbar en
-d*/
+/*navbar en*/
 
 .content{
     display: flex;
@@ -72,6 +71,8 @@ d*/
     margin-top: 10rem;
 }
 
+
+/* sliding text */
 .title{
     color:#fff;
     font-size: 70px;
@@ -103,7 +104,7 @@ d*/
     70%{margin-top: 200px;}
     100%{margin-top: 200px;}
 }
-
+/* sliding text */
 .content p{
     color:#fff;
     font-size: 1.5rem;

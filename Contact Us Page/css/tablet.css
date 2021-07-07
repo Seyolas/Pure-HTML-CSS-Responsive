@@ -1,0 +1,48 @@
+
+.header{
+    margin: 1rem;
+
+}
+.header p{
+text-align: center;
+}
+#content{
+    margin: 0.5rem;
+}
+.left{
+  margin: 0;
+     width: 60vw;
+     height: 95vh;
+     
+     
+ }
+ .right{
+     height: 95vh;
+     width: 35vw;
+     
+ }
+ .sınıf label{
+     position: relative;
+     top: 10px;
+ }
+
+ .sınıf textarea{
+     position: relative;
+     left: -5px;
+     width: 100%;
+ }
+ .right{
+     font-size:larger;
+     padding: 0;
+     
+ }
+ .right label{
+     padding: 1rem;
+ }
+ .right span{
+     padding:0;
+    
+ }
+ .content-right{
+    
+ }
