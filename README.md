@@ -20,6 +20,8 @@ PluralSight Clone --> https://myprojects2.000webhostapp.com/PluralSightClone/
 
 Sliding Text --> https://myprojects2.000webhostapp.com/Sliding-Text/
 
+Contact Us Page --> https://myprojects2.000webhostapp.com/ContactUs/
+
 
 
 
