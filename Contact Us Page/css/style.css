@@ -23,6 +23,7 @@ body{
     font-weight: 700;
 }
 
+
 #content{
     display: flex;
     margin: 3rem 10rem;
@@ -83,6 +84,7 @@ body{
     width: 100%;
     padding: 0.5rem;
     margin: 0.2rem;
+    
 }
 
 textarea{
@@ -92,7 +94,8 @@ textarea{
     right: 65px;
     resize: none;
     border-radius: 5px;
-   
+    outline: none;
+    
  
 }
 
@@ -133,6 +136,6 @@ textarea{
     font-weight: 900;
 }
 .content-right label{
-    padding: 0.5rem;
+    padding: 1rem;
     font-weight: 900;
 }
