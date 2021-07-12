@@ -1,0 +1,148 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Bona+Nova:wght@700&family=Oswald:wght@700&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+a{
+    text-decoration: none;
+    color:#fff;
+}
+#myVideo{
+    object-fit: cover;
+    width: 100vw;
+    height: 100vh;
+    position: fixed;
+    top: 0;
+    left: 0;
+}
+
+.logo{
+    position: relative;
+    bottom: 15px;
+    z-index: 1;
+    width: 150px;
+    
+
+}
+
+#navbar{
+    position: relative;
+    display: flex;
+    justify-content: space-around;
+    padding: 2rem;
+    margin: 1rem;
+    z-index: 1;
+    
+}
+
+#navbar ul {
+    display: flex;
+    
+}
+
+#navbar ul li a{
+    padding: 1rem;
+}
+
+#navbar ul li .giris{
+    color:yellow;
+    border: 1px solid yellow;
+}
+#navbar ul li .giris:hover{
+    background-color: yellow;
+    color:black;
+}
+
+
+#navbar ul li a:hover{
+    color:rgb(134, 89, 89);
+}
+
+
+/*****************************************************/
+
+.content h1{
+    position: relative;
+    align-self: center;
+    text-align: center;
+    z-index: 1;
+    color:#fff;
+    margin-top: 5rem;
+    font-family: 'Bona Nova', serif;
+    font-family: 'Oswald', sans-serif;
+    font-size: xx-large;
+
+}
+
+.arama{
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0.5rem;
+    padding: 1rem;
+
+}
+.arama input{
+    width: 450px;
+    height: 30px;
+    
+}
+.fa{
+    padding: 0.4rem;
+}
+.fa:hover{
+    color:black;
+    background-color: white;
+}
+
+/******************************************/
+
+.content2{
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.content2 .images img{
+    width: 60px;
+    padding: 1rem;
+    margin: 0.5rem;
+    
+}
+
+.content2 .images img:hover{
+    opacity: 0.8;
+    
+}
+
+
+
+.content2 .images .arka-resim{
+    background-color: rgb(94, 50, 50);
+}
+/****************************************************/
+
+#yellowstone{
+    position: relative;
+    z-index: 1;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0 auto;
+}
+
+#yellowstone a{
+    display: flex;
+    padding: 1rem;
+    margin-top: 7rem;
+    font-size: 30px;
+}
+#yellowstone a:hover{
+    opacity: 0.5;
+}
