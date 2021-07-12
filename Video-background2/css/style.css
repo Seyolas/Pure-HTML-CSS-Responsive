@@ -135,6 +135,7 @@ a{
     justify-content: center;
     align-items: center;
     margin: 0 auto;
+    margin-top: 3rem;
 }
 
 #yellowstone a{
@@ -145,4 +146,21 @@ a{
 }
 #yellowstone a:hover{
     opacity: 0.5;
+}
+
+
+/***********************KURSLAR.HTML**************************/
+
+#kurslar {
+    position: relative;
+    display: flex;
+    justify-content: space-around;
+    padding: 2rem;
+    margin: 1rem;
+    z-index: 1;
+
+}
+.card{
+    position: relative;
+    z-index: 1;
 }
