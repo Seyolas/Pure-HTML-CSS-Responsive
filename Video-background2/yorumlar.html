@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="./css/style.css">
+    <link rel="stylesheet" media="(max-width:540px)" href="./css/mobile.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css" integrity="sha512-iBBXm8fW90+nuLcSKlbmrPcLa0OT92xO1BIsZ+ywDWZCvqsWgccV3gFoRBv0z+8dLJgyAHIhR35VZc2oM/gI1w==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+
+</head>
+<body>
+  
+    <video autoplay muted loop id="myVideo">
+        <source src="./img/video.mp4" type="video/mp4">
+        Your browser does not support HTML5 video.
+      </video>
+
+      <header class="container">
+
+
+        <nav id="navbar">
+            
+          <a href="index.html"> <img src="./img/logo.png" class="logo"></a>  
+           
+           
+           <ul>
+              
+
+               
+               <li><a href="index.html">Ev</a></li>
+               <li><a href="kurslar.html">Kurslar</a></li>
+               <li><a href="yorumlar.html">Yorumlar</a></li>
+               <li><a href="iletişim.html">İletişim</a></li>
+               <li><a class="giris" href="#contact">Giriş Yap</a></li>
+            
+           </ul>
+           </nav>
+      </header>
+
+
+
+      <section>
+        <div class="container">
+            <div class="row">
+                <div class="col">
+                    <h1>Millet ne diyor ?</h1>
+                    <div class="comment"> <img src="https://images.pexels.com/photos/1314550/pexels-photo-1314550.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940" alt="" class="rounded-circle" width="40" height="40">
+                        <h4>Güzel platfrom, ders içerikleri çok kaliteli. Ben 3 farklı kurs aldım ve yeterli donanıma sahip olmadığıma karar verdim. Bol şans</h4>
+                        <p>Ömer Faruk Aydemir / Fırat Üniversitesi Yazılım Mühendisliği Öğrencisi</p> <span>- 22 Kasım, 2021</span> <br>
+                    </div>
+                    <div class="comment"> <img src="https://images.pexels.com/photos/1898555/pexels-photo-1898555.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940" alt="" class="rounded-circle" width="40" height="40">
+                        <h4>4 senedir boşuna okula gidiyormuşum...</h4>
+                        <p>Şebnem Tok / Osmangazi Üniversitesi Fizik Öğrencisi</p> <span>- 10 Eylül, 2020</span> <br>
+                    </div>
+                    <div class="comment"> <img src="https://images.pexels.com/photos/428321/pexels-photo-428321.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940" alt="" class="rounded-circle" width="40" height="40">
+                        <h4>Why there is no English option for every lesson? Weird...</h4>
+                        <p>Ernesta Paulauskaitė / Vilniaus Kolegija </p> <span>- 13 Ağustos, 2020</span> <br>
+                    </div>
+                    <div class="comment"> <img src="https://pbs.twimg.com/profile_images/1077583099402301440/bNaz8zhR.jpg" alt="" class="rounded-circle" width="40" height="40">
+                        <h4>Yengeye Elif dedin usta...</h4>
+                        <p>Alican Demir / Hayat Üniversitesi </p> <span>- 20 Ocak, 2018</span> <br>
+                    </div>
+                </div>
+                <div class="right mt-4">
+                    <h4>Yorum Yap</h4>
+                    <form id="algin-form">
+                        <div class="form-group">
+                            <label for="message">Message</label> <textarea name="msg" id="" msg cols="40" rows="10"  class="form-control" style="background-color: black;"></textarea>
+                        </div>
+                        <div class="form-group"> <label for="name">Name</label> <input type="text" name="name" id="fullname" class="form-control"> </div>
+                        <div class="form-group"> <label for="email">Email</label> <input type="text" name="email" id="email" class="form-control"> </div>
+                        
+                        <div class="form-inline"> <input type="checkbox" name="check" id="checkbx" class="mr-1"> <label for="subscribe">Güncel haberleri almak için abone ol</label> </div>
+                        <div class="form-group"> <button type="button" id="post" class="btn">Post Comment</button> </div>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </section>
+
+
+
+
+
+
+
+
+
+
+
+    </body>
+    </html>

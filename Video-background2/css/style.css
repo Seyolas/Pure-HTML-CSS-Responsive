@@ -44,7 +44,9 @@ a{
 }
 
 #navbar ul li a{
-    padding: 1rem;
+    padding: 0.8rem;
+    margin: 1rem;
+    font-size: larger;
 }
 
 #navbar ul li .giris{
@@ -59,6 +61,7 @@ a{
 
 #navbar ul li a:hover{
     color:rgb(134, 89, 89);
+    border: rgb(122, 90, 78) 1px solid;
 }
 
 
@@ -135,7 +138,7 @@ a{
     justify-content: center;
     align-items: center;
     margin: 0 auto;
-    margin-top: 3rem;
+    margin-top: 7rem;
 }
 
 #yellowstone a{
@@ -154,13 +157,142 @@ a{
 #kurslar {
     position: relative;
     display: flex;
-    justify-content: space-around;
+    justify-content: center;
+    align-items: center;
     padding: 2rem;
     margin: 1rem;
     z-index: 1;
+    color:#fff;
+    flex-wrap:wrap;
 
 }
 .card{
     position: relative;
     z-index: 1;
+    padding: 1rem;
+    margin: 2rem;
+    background-color: rgb(54, 46, 46);
+    border: 2px solid white;
+    width: 230px;
+    height: 300px;
+    flex-wrap: wrap;
+    transition: box-shadow .3s;
+    border-radius:10px;
+  
+}
+.card .icerik{
+    display: flex;
+    flex-direction: column;
+    align-items:stretch;
+    justify-content: center;
+}
+.card .course{
+    position: absolute;
+    bottom: 0px;
+    left: 0px;
+}
+
+.card:hover{
+    box-shadow: 0 0 20px rgb(167, 206, 28); 
+    cursor: pointer;
+}
+.card p{
+    text-align: center;
+    margin: 1rem;
+}
+.card h3{
+    text-align: center;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+}
+.cards1{
+    display: flex;
+}
+
+.cards2{
+    display: flex;
+}
+.cards3{
+    display: flex;
+}
+
+/*YORUMLAR.HTML*/
+/*left*/
+.row{
+    position: relative;
+    z-index: 1;
+    color:#fff;
+    display: flex;
+    
+}
+
+.comment{
+    background-color: rgba(41, 13, 44, 0.3);
+    margin: 1rem;
+    padding: 1rem;
+    border:solid 1px wheat;
+    border-radius: 10px;
+    text-align: center;
+    cursor: pointer;
+}
+.comment p{
+    margin: 0.5rem;
+}
+.rounded-circle{
+    object-fit: cover;
+}
+.col{
+    padding: 1rem;
+    font-size: large;
+}
+.col h1{
+    padding-left: 1rem;
+    
+}
+
+/*right*/
+
+.right{
+    margin-top:1rem;
+}
+.right h4{
+
+}
+
+#algin-form{
+display: flex;
+flex-direction: column;
+border:solid 1px wheat;
+margin-top: 2rem;
+margin-right: 1rem;
+border-radius: 5px;
+padding: 1rem;
+
+}
+.form-group{
+    padding: 0.5rem;
+}
+.form-group textarea{
+    display: block;
+    padding: 0.5rem;
+    color:#fff;
+    margin-top: 0.5rem;
+    resize: none;
+}
+.form-group label{
+    font-size: large;
+    padding: 0.5rem;
+}
+.form-group input{
+    font-size: large;
+    border-radius: 5px;
+    width: 100%;
+    background-color: rgb(201, 190, 168);
+    padding: 0.5rem;
+    color:black;
+}
+.form-inline .mr-1{
+   padding: 0.5rem;
+   margin-left:0.7rem;
+   
 }
