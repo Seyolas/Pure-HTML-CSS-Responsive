@@ -230,9 +230,7 @@ a{
     background-color: rgba(41, 13, 44, 0.3);
     margin: 1rem;
     padding: 1rem;
-    border:solid 1px wheat;
-    border-radius: 10px;
-    text-align: center;
+    text-align: left;
     cursor: pointer;
 }
 .comment p{
@@ -256,16 +254,14 @@ a{
     margin-top:1rem;
 }
 .right h4{
-
+margin-left: 1.5rem;
 }
 
 #algin-form{
 display: flex;
 flex-direction: column;
-border:solid 1px wheat;
 margin-top: 2rem;
-margin-right: 1rem;
-border-radius: 5px;
+margin-right: 3rem;
 padding: 1rem;
 
 }
@@ -278,21 +274,41 @@ padding: 1rem;
     color:#fff;
     margin-top: 0.5rem;
     resize: none;
+    font-size:large;
 }
 .form-group label{
     font-size: large;
     padding: 0.5rem;
 }
-.form-group input{
-    font-size: large;
-    border-radius: 5px;
+.form-group input[type="text"]{
+    font-size:medium;
     width: 100%;
-    background-color: rgb(201, 190, 168);
+   border-bottom: 5px;
     padding: 0.5rem;
-    color:black;
+    background-color: black;
+    color:#fff;
+    border-bottom: 3px solid white;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    margin:0.3rem;
+    
 }
 .form-inline .mr-1{
    padding: 0.5rem;
    margin-left:0.7rem;
    
+}
+.btn{
+   font-size: medium;
+   padding: 0.7rem;
+   margin: 0.3rem;
+   background-color: black;
+   color:yellow;
+   border: yellow solid 1px;
+}
+.btn:hover{
+    background-color: yellow;
+    color:black;
+    cursor: pointer;
 }
