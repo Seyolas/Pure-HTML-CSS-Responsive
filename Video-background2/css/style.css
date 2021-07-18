@@ -1,10 +1,16 @@
 
-@import url('https://fonts.googleapis.com/css2?family=Bona+Nova:wght@700&family=Oswald:wght@700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Fuggles&family=Josefin+Slab&family=Playfair+Display:wght@500&family=Quicksand:wght@300;400&family=Roboto+Mono:wght@200&display=swap');
+
 
 *{
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    font-family: 'Fuggles', cursive;
+    font-family: 'Josefin Slab', serif;
+    font-family: 'Playfair Display', serif;
+    font-family: 'Quicksand', sans-serif;
+    
 }
 a{
     text-decoration: none;
@@ -40,18 +46,20 @@ a{
 
 #navbar ul {
     display: flex;
+    list-style-type: none;
     
 }
 
 #navbar ul li a{
     padding: 0.8rem;
-    margin: 1rem;
+    margin: 0.7rem;
     font-size: larger;
 }
 
 #navbar ul li .giris{
     color:yellow;
     border: 1px solid yellow;
+    border-radius: 2px;
 }
 #navbar ul li .giris:hover{
     background-color: yellow;
@@ -92,10 +100,16 @@ a{
 .arama input{
     width: 450px;
     height: 30px;
-    
+    background-color: rgb(247, 220, 210);
+   
 }
 .fa{
-    padding: 0.4rem;
+   padding: 0.4rem;
+  
+}
+.search{
+    background-color: rgb(241, 146, 112);
+    border: none;
 }
 .fa:hover{
     color:black;
@@ -164,7 +178,7 @@ a{
     z-index: 1;
     color:#fff;
     flex-wrap:wrap;
-
+    
 }
 .card{
     position: relative;
@@ -223,6 +237,7 @@ a{
     z-index: 1;
     color:#fff;
     display: flex;
+    margin-top: 2rem;
     
 }
 
@@ -254,7 +269,9 @@ a{
     margin-top:1rem;
 }
 .right h4{
+    display: inline-block;
 margin-left: 1.5rem;
+border-bottom: 1px solid white;
 }
 
 #algin-form{
@@ -306,9 +323,283 @@ padding: 1rem;
    background-color: black;
    color:yellow;
    border: yellow solid 1px;
+   border-radius: 2px;
 }
 .btn:hover{
     background-color: yellow;
     color:black;
     cursor: pointer;
 }
+
+/*İLETİŞİM PAGE LEFT*/
+
+#main-div{
+    position: relative;
+    bottom: 20px;
+    display: flex;
+    margin: 0 20rem;    
+    overflow: hidden;
+   ;
+}
+
+.iletisim-left{
+   display: flex;
+   flex-direction: column;
+   background-color: rgb(39, 42, 50);
+   justify-content: center;
+   align-items:left;
+   width: 50vw;
+}
+
+.m3{
+    display: flex;
+    flex-direction: column;
+    margin: 0.5rem;
+    padding: 0.5rem;
+}
+.m3 h3{
+    color: white;
+   margin-top: 0.7rem;
+   
+}
+.m3 input{
+    width: 25vw;
+    height: 5vh;
+    border:none;
+    border-bottom: 2px solid rgb(206, 204, 204);
+    background-color: rgb(39, 42, 50);
+}
+
+.m3 textarea{
+    width: 25vw;
+    resize: none;
+    margin-bottom: 1rem;
+    background-color: rgb(39, 42, 50);
+    color:rgb(206, 204, 204);
+    padding: 1rem;
+}
+
+.send{
+    position: relative;
+    bottom: 6px;
+    display: inline-block;
+    width: fit-content;
+    padding: 0.5rem 1rem;
+    margin-bottom: 1rem;
+    border-radius: 3px;
+    background-color: #ff7b39;
+    font-size: medium;
+    color:white;
+}
+.send:hover{
+    border:solid 2px white;
+}
+
+/*İLETİŞİM PAGE LEFT*/
+
+
+/*İLETİŞİM PAGE RIGHT*/
+.iletisim-right{
+    background-color: rgb(29, 30, 34);
+    display: flex;
+    flex-direction: column;
+    padding: 1.5rem;
+    color:rgb(206, 204, 204);
+    
+}
+.iletisim-baslik h4{
+    color: white;
+
+}
+
+.iletisim-icerik{
+    margin-top: 2rem;
+
+}
+.iletisim-icerik strong{
+    color: white;
+    padding: 0.3rem;
+}
+.mr4{
+    padding: 1rem;
+}
+
+
+/*signup********************************/
+
+
+#wrapper {
+    position: relative;
+    display: flex;
+    flex-direction: row;
+  }
+  
+  #left {
+    display: flex;
+    flex-direction: column;
+    flex: 1;
+    align-items: center;
+    justify-content: center;
+    height: 80vh;
+  }
+  
+  #right {
+    flex: 1;
+  }
+  
+  /* Sign In */
+  #signin {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 80%;
+    padding-bottom: 1rem;
+  }
+  
+  #signin form {
+    width: 80%;
+    padding-bottom: 3rem;
+  }
+
+  
+  #signin label {
+    font-size: 0.9rem;
+    line-height: 2rem;
+    font-weight: 500;
+    color:#fff;
+  }
+  
+  #signin .text-input {
+    margin-bottom: 1.3rem;
+    width: 100%;
+    border-radius: 2px;
+    background: #181818;
+    border: 1px solid #555;
+    color: #ccc;
+    padding: 0.5rem 1rem;
+    line-height: 1.3rem;
+  }
+  
+  #signin .primary-btn {
+    width: 100%;
+  }
+  
+  #signin .secondary-btn,
+  .or,
+  .links {
+    width: 60%;
+  }
+  
+  
+  #signin .links a {
+    display: block;
+    color: #fff;
+    text-decoration: none;
+    margin-bottom: 1rem;
+    text-align: center;
+    font-size: 0.9rem;
+    
+  }
+  
+  #signin .links a:hover{
+      transition: all 0.5s;
+    color:#ff7b39;
+  }
+  
+  #signin .or {
+    display: flex;
+    flex-direction: row;
+    margin-bottom: 1.2rem;
+    align-items: center;
+  }
+  
+  #signin .or .bar {
+    flex: auto;
+    border: none;
+    height: 1px;
+    background: #aaa;
+  }
+  
+  #signin .or span {
+    color: #ccc;
+    padding: 0 0.8rem;
+  }
+  
+  /* Showcase */
+  #showcase {
+    display: flex;
+    justify-content:flex-start;
+    align-items:center;
+    height: 70vh;
+    text-align: center;
+   
+  }
+  
+  #showcase .showcase-text {
+    font-size: 3rem;
+    width: 100%;
+    color: #fff;
+    margin-bottom:2rem;
+  }
+  
+  #showcase .secondary-btn {
+    width: 60%;
+    margin: auto;
+    margin-bottom: 15rem;
+  }
+  
+  /* Footer */
+  #main-footer {
+    color: #ccc;
+    text-align: center;
+    font-size: 0.8rem;
+    max-width: 80%;
+    padding-top: 2rem;
+  }
+  
+  #main-footer a {
+    color: #f96816;
+    text-decoration: underline;
+  }
+  
+  /* Button */
+  .primary-btn {
+    padding: 0.7rem 1rem;
+    height: 2.7rem;
+    display: block;
+    border: 0;
+    border-radius: 2px;
+    font-weight: 500;
+    background: #f96816;
+    color: #fff;
+    text-decoration: none;
+    cursor: pointer;
+    text-align: center;
+    transition: all 0.5s;
+  }
+  
+  .primary-btn:hover {
+    background-color: #ff7b39;
+  }
+  
+  .secondary-btn {
+    padding: 0.7rem 1rem;
+    height: 2.7rem;
+    display: block;
+    border: 1px solid #f4f4f4;
+    border-radius: 2px;
+    font-weight: 500;
+    background: none;
+    color: #fff;
+    text-decoration: none;
+    cursor: pointer;
+    text-align: center;
+    transition: all 0.5s;
+  }
+  
+  .secondary-btn:hover {
+    border-color: #ff7b39;
+    color: #ff7b39;
+  }
+  

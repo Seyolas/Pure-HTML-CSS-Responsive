@@ -1,0 +1,135 @@
+/* Media Queries */
+@media (min-width: 1200px) {
+    #left {
+      flex: 4;
+    }
+  
+    #right {
+      flex: 6;
+    }
+  }
+  
+  @media (max-width: 768px) {
+    body {
+      overflow: auto;
+    }
+  
+    #right {
+      display: none;
+    }
+  
+    #left {
+      justify-content: start;
+      margin-top: 24vh;
+    }
+  
+    #signin .logo {
+      margin-bottom: 2vh;
+    }
+  
+    #signin .text-input {
+      margin-bottom: 0.7rem;
+    }
+  
+    #main-footer {
+      padding-top: 1rem;
+    }
+
+}
+
+#navbar{
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-evenly;
+  padding: 0;
+  margin: 0;
+  z-index: 1;
+}
+
+#navbar ul li a{
+  padding: 0.3rem;
+  margin: 0.3rem;
+  font-size: medium;
+}
+.logo{
+  margin:1rem;
+  margin-top: 2rem;
+}
+
+.cards1{
+  display: flex;
+  flex-direction: column;
+}
+.cards2{
+  display: flex;
+  flex-direction: column;
+}
+.cards3{
+  flex-direction: column;
+}
+
+
+
+.row{
+  display: flex;
+  flex-direction:column;
+}
+
+#algin-form{
+  margin:0;
+}
+
+.form-group{
+  padding: 0;
+}
+.form-group textarea{
+  padding: 0;
+  margin: 0;
+}
+.form-group label{
+  margin: 0;
+  padding: 0;
+}
+
+#yellowstone{
+  margin-top:1rem;
+}
+
+#yellowstone a{
+  margin: 0;
+}
+.form-group input{
+  margin: 0;
+  padding: 0;
+}
+.form-inline .mr-1{
+  margin: 0;
+  padding: 0;
+}
+
+#main-div{
+  display: flex;
+  flex-direction: column;
+  margin: 0;
+}
+
+
+
+.iletisim-left{
+  width: 100vw;
+  align-self: center;
+}
+
+.m3 input{
+  width: 100vw;
+}
+
+.m3 textarea{
+  width: 100vw;
+}
+
+.iletisim-right{
+  width: 100vw;
+}
+
