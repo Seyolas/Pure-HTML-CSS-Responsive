@@ -8,6 +8,8 @@ Responsive Layout --> https://myprojects2.000webhostapp.com/ResponsiveLayout/ind
 
 Mobile First Webpage --> https://myprojects2.000webhostapp.com/MobileFirstWebsite/
 
+Online University -->  https://myprojects2.000webhostapp.com/OnlineUniversity/index.html
+
 Design your house ----> https://myprojects2.000webhostapp.com/DesignYourHouseWebsite/
 
 Easy Full Screnn ---> https://myprojects2.000webhostapp.com/EasyFullscreenLandingPage/
