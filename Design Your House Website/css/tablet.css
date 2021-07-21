@@ -1,0 +1,11 @@
+#navbar{
+    display: flex;
+    flex-direction: column;
+}
+
+.content{
+    
+    position: relative;
+    bottom: 150px;
+    
+}
