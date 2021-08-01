@@ -69,7 +69,7 @@ a{
 
 #navbar ul li a:hover{
     color:rgb(134, 89, 89);
-    border: rgb(122, 90, 78) 1px solid;
+    border: transparent solid 1px rgb(122, 90, 78);
 }
 
 
@@ -309,7 +309,7 @@ padding: 1rem;
     border-left: none;
     border-right: none;
     margin:0.3rem;
-    
+    outline: none;    
 }
 .form-inline .mr-1{
    padding: 0.5rem;
