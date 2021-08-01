@@ -1,0 +1,17 @@
+#navbar img{
+    display: inline-block;
+    width: 5rem;
+}
+ul li{
+    list-style-type: none;
+}
+html{
+    scroll-behavior:smooth;
+}
+::-webkit-input-placeholder {
+    text-align: center;
+ }
+
+ a{
+  text-decoration: none;   
+ }
