@@ -22,6 +22,8 @@ PluralSight Clone --> https://myprojects2.000webhostapp.com/PluralSightClone/
 
 Sliding Text --> https://myprojects2.000webhostapp.com/Sliding-Text/
 
+WoltFood CLone--> https://myprojects2.000webhostapp.com/WoltFood-Clone/
+
 
 
 
