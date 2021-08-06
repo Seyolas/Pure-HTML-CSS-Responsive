@@ -4,7 +4,7 @@ UPDATE LINK 👇
 
 
 
-Responsive Layout --> https://myprojects2.000webhostapp.com/ResponsiveLayout/index.html
+Responsive Layout --> https://myprojects2.000webhostapp.com/ResponsiveLayout/index.html 
 
 Mobile First Webpage --> https://myprojects2.000webhostapp.com/MobileFirstWebsite/
 
@@ -23,6 +23,8 @@ PluralSight Clone --> https://myprojects2.000webhostapp.com/PluralSightClone/
 Sliding Text --> https://myprojects2.000webhostapp.com/Sliding-Text/
 
 WoltFood CLone--> https://myprojects2.000webhostapp.com/WoltFood-Clone/
+
+Testimonials grid section--> https://myprojects2.000webhostapp.com/TestimonialsGridSection/
 
 
 
