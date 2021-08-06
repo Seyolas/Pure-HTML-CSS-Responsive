@@ -4,7 +4,7 @@ UPDATE LINK 👇
 
 
 
-Responsive Layout --> https://myprojects2.000webhostapp.com/ResponsiveLayout/index.html
+Responsive Layout --> <a href=https://myprojects2.000webhostapp.com/ResponsiveLayout/index.html target_blank</a>
 
 Mobile First Webpage --> https://myprojects2.000webhostapp.com/MobileFirstWebsite/
 
