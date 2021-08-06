@@ -1,0 +1,84 @@
+@import url('https://fonts.googleapis.com/css2?family=Georama:wght@300&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Georama', sans-serif;
+}
+
+body{
+    background:#F3F4F6;
+}
+
+#container{
+    max-width: 1200px;
+    display: grid;
+    grid-template-columns: repeat(8,1fr);
+    grid-gap: 2rem;
+    grid-auto-rows: minmax(200px,auto);
+    grid-template-areas: "one one one one two two three three"
+    "four four five five five five three three";
+    margin:8rem 10rem;
+}
+.one{
+    grid-area: one;
+    background-color: #6D28D9;
+    color:#fff;
+}
+.two{
+    grid-area: two;
+    background-color: #4B5563;
+    color:#fff;
+}
+.three{
+    grid-area: three;
+    color:black;
+    background: white;
+}
+.four{
+    grid-area: four;
+    color:black;
+    background: white;
+}
+.five{
+    grid-area: five;
+    color:#fff;
+    background: black;
+}
+.name-surname{
+    display: flex;
+}
+.x{
+    display: flex;
+    flex-direction: column;
+    margin-left: 1rem;
+    margin-top: 0.2rem;
+}
+#container>*{
+    box-shadow:
+    0 2.8px 2.2px rgba(0, 0, 0, 0.034),
+    0 6.7px 5.3px rgba(0, 0, 0, 0.048),
+    0 12.5px 10px rgba(0, 0, 0, 0.06),
+    0 22.3px 17.9px rgba(0, 0, 0, 0.072),
+    0 41.8px 33.4px rgba(0, 0, 0, 0.086),
+    0 100px 80px rgba(0, 0, 0, 0.12);
+
+    border-radius: 10px;
+    padding: 1rem;
+    cursor: pointer;
+}
+#container>*:hover{
+    transition: 0.5s all;
+    transform: translateY(-5px);
+}
+
+.content{
+    display: flex;
+    flex-direction: column;
+    margin: 1rem;
+}
+#container img{
+    margin-left: 1rem;
+    border-radius: 50%;
+}
+

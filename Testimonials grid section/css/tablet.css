@@ -1,0 +1,13 @@
+ #container{
+  
+    grid-template-columns: repeat(2,1fr);
+    grid-gap: 2rem;
+    grid-auto-rows: minmax(200px,auto);
+    grid-template-areas: 
+    "one one"
+    "two two"
+    "three three "
+    "four four "
+    "five five";
+    margin:1rem;
+} 
