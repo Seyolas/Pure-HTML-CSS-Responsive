@@ -24,6 +24,8 @@ Sliding Text --> https://myprojects2.000webhostapp.com/Sliding-Text/
 
 WoltFood CLone--> https://myprojects2.000webhostapp.com/WoltFood-Clone/
 
+Testimonials grid section--> https://myprojects2.000webhostapp.com/TestimonialsGridSection/
+
 
 
 
