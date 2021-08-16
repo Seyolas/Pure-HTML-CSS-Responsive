@@ -13,3 +13,10 @@ li{
 a{
     text-decoration: none;
 }
+
+.MyGrid-one>*:hover{
+    background-color: rgb(47, 194, 165);
+    cursor: pointer;
+    transition: 0.7s all;
+}
+
