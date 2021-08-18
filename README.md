@@ -26,6 +26,7 @@ WoltFood CLone--> https://myprojects2.000webhostapp.com/WoltFood-Clone/
 
 Testimonials grid section--> https://myprojects2.000webhostapp.com/TestimonialsGridSection/
 
+Linux Journey Clone -- > https://myprojects2.000webhostapp.com/LinuxJourneyClone/
 
 
 
