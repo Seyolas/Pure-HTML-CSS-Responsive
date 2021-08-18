@@ -1,0 +1,135 @@
+
+
+.dark-header{
+    height:50px;
+    position: fixed;
+    top: 0;
+    width: 100%;
+    background-color: rgb(44, 62, 80);
+}
+
+.dark-header ul{
+  display: flex;
+  width: 350px;
+  margin: 0 1rem;
+}
+.linux{
+    margin-top: 1.1rem;
+    font-size: 12px;
+    font-weight: bolder;
+}
+.dark-header ul li label{
+    font-size: 12px;
+}
+.dark-header select{
+    font-size: 12px;
+}
+
+
+/************GREEN AREA**********************************/
+.mainX{
+    height:300px;
+}
+.green-area img{
+    margin-top: 5rem;
+    width: 70px;
+}
+.green-area h1{
+    margin-top: 3rem;
+    font-size: 15px;
+    color:#fff;
+}
+
+/************SUBSCRIBE AREA**********************************/
+
+.middle{
+    margin-left: 15px;
+    
+}
+.sub-area input{
+    width: 342px;
+    height: 30px;
+    padding: 0.6rem 0.3rem;
+    
+}
+.sub-area a{
+    display: inline-block;
+    background-color: rgb(24, 188, 156);
+    width:342px;
+    margin: 0.3rem 0.1rem;
+    text-align: center;
+}
+
+/************grayheader AREA*****************/
+
+
+.gray-headers{
+   
+    padding-top: 3rem;
+    font-size: 2rem;
+    margin-bottom: 4rem;
+}
+
+/************grayheader AREA*****************/
+.MyGrid-one{
+    max-width:1100px;
+    margin: 0 auto;
+    display: grid;
+    grid-template-columns: repeat(8,2fr);
+    grid-auto-rows: minmax(350px,auto);
+    grid-template-areas: "one one one one two two two two"
+    "three three three three four four four four"
+    "five five five five six six six six"
+    "seven seven seven seven eight eight eight eight";
+    grid-gap:1rem;
+}
+
+.MyGrid-last{
+    max-width:1100px;
+    margin: 0 auto;
+    display: grid;
+    grid-template-columns: repeat(8,2fr);
+    grid-auto-rows: minmax(350px,auto);
+    grid-template-areas: "one one one one two two two two"
+    "three three three three four four four four";
+    grid-gap:1rem;
+}
+
+
+footer{
+    margin-top: 0;
+    height: 700px;
+    background-color: rgb(44, 62, 80);
+}
+
+
+footer ul {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    margin: 0 auto;
+}
+
+footer ul li{
+    margin: 1rem;
+    
+}
+footer h2{
+    text-align: center;
+    padding-bottom: 1rem;
+}
+footer p{
+    text-align: center;
+}
+footer a{
+    display: inline-block;
+    color:#FDE68A;
+    text-align: center;
+    align-self: center;
+    margin: 0 8rem;
+}
+footer .about-us{
+    margin: 0 5rem;  
+}

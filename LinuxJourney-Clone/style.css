@@ -10,6 +10,10 @@
 
 .dark-header{
     height:50px;
+    position: fixed;
+    top: 0;
+    width: 100%;
+    background-color: rgb(44, 62, 80);
 }
 
 ul{
@@ -26,10 +30,19 @@ ul li{
     font-size: 20px;
     font-weight: bolder;
 }
-.dark-header{
-    background-color: rgb(44, 62, 80);
-}
 
+.dark-header select{
+    background-color: rgb(44, 62, 80);
+    color:#fff;
+    font-weight: bolder;
+
+    
+}
+.dark-header select option{
+    padding: 2rem;
+    color:#fff;
+    font-weight: bolder;
+}
 /************GREEN AREA**********************************/
 
 .green-area{
@@ -61,6 +74,7 @@ ul li{
 }
 
 .sub-area input{
+    outline: none;
 width: 342px;
 height: 30px;
 padding: 0.9rem 0.5rem;
@@ -91,6 +105,7 @@ padding: 0.9rem 0.5rem;
 /*************GRID AREA*****************/
 main{
     background-color: #F3F4F6;
+   
 }
 .gray-headers{
     display: flex;
@@ -107,14 +122,15 @@ section img{
     border-radius: 50%;
     width: 150px;
 }
+
 .MyGrid-one{
     max-width:1100px;
     margin: 0 auto;
     display: grid;
     grid-template-columns: repeat(8,2fr);
     grid-auto-rows: minmax(350px,auto);
-    grid-template-areas: "one one two two three three four four"
-    "five five six six seven seven eight eight";
+    grid-template-areas: "one one two two three three four four four"
+    "five five six six seven seven eight eight eight";
     grid-gap:1rem;
 }
 .one{
@@ -172,4 +188,60 @@ section img{
     font-size: 1.3rem;
     font-weight:900;
     text-transform: capitalize;
+}
+
+.MyGrid-last{
+    max-width:1100px;
+    margin: 0 auto;
+    display: grid;
+    grid-template-columns: repeat(8,2fr);
+    grid-auto-rows: minmax(350px,auto);
+    grid-template-areas: "one one two two three three four four";
+    grid-gap:1rem;
+}
+
+.MyGrid-last>*{
+    background-color: white;
+   border-radius: 2px;
+}
+.MyGrid-last img{
+    border-radius: 0;
+}
+/********************footer*************************/
+
+footer{
+    margin-top: 10rem;
+    height: 200px;
+    background-color: rgb(44, 62, 80);
+}
+
+footer ul {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 1000px;
+    margin: 0 auto;
+}
+
+footer ul li{
+    margin: 2rem;
+    
+}
+footer h2{
+    text-align: center;
+    padding-bottom: 1rem;
+}
+footer p{
+    text-align: center;
+}
+footer a{
+    display: inline-block;
+    color:#FDE68A;
+    text-align: center;
+    align-self: center;
+    margin: 0 4rem; 
+    padding-top: 0.7rem; 
+}
+footer .about-us{
+    margin: 0 5rem;  
 }
