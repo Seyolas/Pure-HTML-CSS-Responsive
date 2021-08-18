@@ -2,7 +2,7 @@ This is the main repository for all of the projects.
 
 UPDATE LINK 👇
 
-
+Linux Journey Clone -- > https://myprojects2.000webhostapp.com/LinuxJourneyClone/
 
 Responsive Layout --> https://myprojects2.000webhostapp.com/ResponsiveLayout/index.html 
 
@@ -26,7 +26,6 @@ WoltFood CLone--> https://myprojects2.000webhostapp.com/WoltFood-Clone/
 
 Testimonials grid section--> https://myprojects2.000webhostapp.com/TestimonialsGridSection/
 
-Linux Journey Clone -- > https://myprojects2.000webhostapp.com/LinuxJourneyClone/
 
 
 
