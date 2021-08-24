@@ -2,7 +2,7 @@ This is the main repository for all of the projects.
 
 UPDATE LINK 👇
 
-Linux Journey Clone -- > https://myprojects2.000webhostapp.com/LinuxJourneyClone/
+Linux Journey Clone -- >https://myprojects2.000webhostapp.com/LinuxJourneyClone/
 
 Responsive Layout --> https://myprojects2.000webhostapp.com/ResponsiveLayout/index.html 
 
