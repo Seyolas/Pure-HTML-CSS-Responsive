@@ -1,4 +1,5 @@
-This is the main repository for all of the projects. ( Some of them are too bad. I know that. I feel good when i see them. LOL
+This is the main repository for all of the projects. ( Some of them are too bad. It feels good to see my own progress XD )
+
 UPDATE LINK 👇
 
 
