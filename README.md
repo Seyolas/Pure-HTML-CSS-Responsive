@@ -1,14 +1,10 @@
-This is the main repository for all of the projects.
-
+This is the main repository for all of the projects. ( Some of them are too bad. I know that. I feel good when i see them. LOL
 UPDATE LINK 👇
 
-Linux Journey Clone -- >https://myprojects2.000webhostapp.com/LinuxJourneyClone/
 
 Responsive Layout --> https://myprojects2.000webhostapp.com/ResponsiveLayout/index.html 
 
 Mobile First Webpage --> https://myprojects2.000webhostapp.com/MobileFirstWebsite/
-
-Online University -->  https://myprojects2.000webhostapp.com/eLearn/
 
 Design your house ----> https://myprojects2.000webhostapp.com/DesignYourHouseWebsite/
 
@@ -22,10 +18,13 @@ PluralSight Clone --> https://myprojects2.000webhostapp.com/PluralSightClone/
 
 Sliding Text --> https://myprojects2.000webhostapp.com/Sliding-Text/
 
+Online University -->  https://myprojects2.000webhostapp.com/eLearn/
+
 WoltFood CLone--> https://myprojects2.000webhostapp.com/WoltFood-Clone/
 
 Testimonials grid section--> https://myprojects2.000webhostapp.com/TestimonialsGridSection/
 
+Linux Journey Clone -- >https://myprojects2.000webhostapp.com/LinuxJourneyClone/
 
 
 
