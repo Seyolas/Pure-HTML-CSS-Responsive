@@ -3,13 +3,23 @@ This is the main repository for all of the projects. ( Some of them are too bad.
 UPDATE LINK 👇
 
 
+Linux Journey Clone -- >https://myprojects2.000webhostapp.com/LinuxJourneyClone/
+
+WoltFood CLone--> https://myprojects2.000webhostapp.com/WoltFood-Clone/
+
+Online University -->  https://myprojects2.000webhostapp.com/eLearn/
+
+Testimonials grid section--> https://myprojects2.000webhostapp.com/TestimonialsGridSection/
+
+PluralSight Clone --> https://myprojects2.000webhostapp.com/PluralSightClone/
+
 Responsive Layout --> https://myprojects2.000webhostapp.com/ResponsiveLayout/index.html 
 
 Mobile First Webpage --> https://myprojects2.000webhostapp.com/MobileFirstWebsite/
 
-Design your house ----> https://myprojects2.000webhostapp.com/DesignYourHouseWebsite/
+Sliding Text --> https://myprojects2.000webhostapp.com/Sliding-Text/
 
-Linux Journey Clone -- >https://myprojects2.000webhostapp.com/LinuxJourneyClone/
+Design your house ----> https://myprojects2.000webhostapp.com/DesignYourHouseWebsite/
 
 Easy Full Screnn ---> https://myprojects2.000webhostapp.com/EasyFullscreenLandingPage/
 
@@ -17,15 +27,8 @@ FullScreen Video Background --> https://myprojects2.000webhostapp.com/Fullscreen
 
 Landing Page --> https://myprojects2.000webhostapp.com/LandingPace/
 
-Testimonials grid section--> https://myprojects2.000webhostapp.com/TestimonialsGridSection/
 
-PluralSight Clone --> https://myprojects2.000webhostapp.com/PluralSightClone/
 
-Sliding Text --> https://myprojects2.000webhostapp.com/Sliding-Text/
-
-Online University -->  https://myprojects2.000webhostapp.com/eLearn/
-
-WoltFood CLone--> https://myprojects2.000webhostapp.com/WoltFood-Clone/
 
 
 
