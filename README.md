@@ -9,11 +9,15 @@ Mobile First Webpage --> https://myprojects2.000webhostapp.com/MobileFirstWebsit
 
 Design your house ----> https://myprojects2.000webhostapp.com/DesignYourHouseWebsite/
 
+Linux Journey Clone -- >https://myprojects2.000webhostapp.com/LinuxJourneyClone/
+
 Easy Full Screnn ---> https://myprojects2.000webhostapp.com/EasyFullscreenLandingPage/
 
 FullScreen Video Background --> https://myprojects2.000webhostapp.com/FullscreenVideoBackground/
 
 Landing Page --> https://myprojects2.000webhostapp.com/LandingPace/
+
+Testimonials grid section--> https://myprojects2.000webhostapp.com/TestimonialsGridSection/
 
 PluralSight Clone --> https://myprojects2.000webhostapp.com/PluralSightClone/
 
@@ -23,9 +27,7 @@ Online University -->  https://myprojects2.000webhostapp.com/eLearn/
 
 WoltFood CLone--> https://myprojects2.000webhostapp.com/WoltFood-Clone/
 
-Testimonials grid section--> https://myprojects2.000webhostapp.com/TestimonialsGridSection/
 
-Linux Journey Clone -- >https://myprojects2.000webhostapp.com/LinuxJourneyClone/
 
 
 
