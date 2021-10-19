@@ -5,7 +5,7 @@
 
 Linux Journey Clone --> https://linuxjourneyclone.netlify.app/
 
-WoltFood CLone--> https://myprojects2.000webhostapp.com/WoltFood-Clone/
+WoltFood CLone--> https://woltfoodclone.netlify.app/
 
 Online University -->  https://myprojects2.000webhostapp.com/eLearn/
 
