@@ -15,17 +15,17 @@ PluralSight Clone --> https://sightclone.netlify.app/
 
 Responsive Layout --> https://mylayout.netlify.app/
 
-Mobile First Webpage --> https://myprojects2.000webhostapp.com/MobileFirstWebsite/
+Mobile First Webpage --> https://mobileefirsttry.netlify.app/
 
-Sliding Text --> https://myprojects2.000webhostapp.com/Sliding-Text/
+Sliding Text --> https://slidintext.netlify.app/
 
 Design your house ----> https://housebutton.netlify.app/
 
-Easy Full Screnn ---> https://myprojects2.000webhostapp.com/EasyFullscreenLandingPage/
+Easy Full Screnn ---> https://distracted-sinoussi-d85f19.netlify.app
 
-FullScreen Video Background --> https://myprojects2.000webhostapp.com/FullscreenVideoBackground/
+FullScreen Video Background --> https://hopeful-poincare-8bb71a.netlify.app/
 
-Landing Page --> https://myprojects2.000webhostapp.com/LandingPace/
+Landing Page --> https://hopeful-hawking-024845.netlify.app
 
 
 
