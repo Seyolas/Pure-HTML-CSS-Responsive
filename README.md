@@ -7,19 +7,19 @@ Linux Journey Clone --> https://linuxjourneyclone.netlify.app/
 
 WoltFood CLone--> https://woltfoodclone.netlify.app/
 
-Online University -->  https://myprojects2.000webhostapp.com/eLearn/
+Online University -->  https://onlineuni.netlify.app/
 
-Testimonials grid section--> https://myprojects2.000webhostapp.com/TestimonialsGridSection/
+Testimonials grid section-->  https://testimonialstry.netlify.app/
 
-PluralSight Clone --> https://myprojects2.000webhostapp.com/PluralSightClone/
+PluralSight Clone --> https://sightclone.netlify.app/
 
-Responsive Layout --> https://myprojects2.000webhostapp.com/ResponsiveLayout/index.html 
+Responsive Layout --> https://mylayout.netlify.app/
 
 Mobile First Webpage --> https://myprojects2.000webhostapp.com/MobileFirstWebsite/
 
 Sliding Text --> https://myprojects2.000webhostapp.com/Sliding-Text/
 
-Design your house ----> https://myprojects2.000webhostapp.com/DesignYourHouseWebsite/
+Design your house ----> https://housebutton.netlify.app/
 
 Easy Full Screnn ---> https://myprojects2.000webhostapp.com/EasyFullscreenLandingPage/
 
