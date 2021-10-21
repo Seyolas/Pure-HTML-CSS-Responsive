@@ -3,7 +3,7 @@
 ### UPDATE LINK 👇
 
 
-## Linux Journey Clone --> https://linuxjourneyclone.netlify.app/
+##### Linux Journey Clone --> https://linuxjourneyclone.netlify.app/
 
 ## WoltFood CLone--> https://woltfoodclone.netlify.app/
 
